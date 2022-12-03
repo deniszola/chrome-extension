@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Extension",
+  "description": "A simple Chrome extension to learn the basics of Chrome extension development.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "extension.html",
+    "default_icon": "extension.png"
+  }
+}
