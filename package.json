@@ -1,11 +1,7 @@
 {
   "name": "chrome-extension",
   "version": "1.0.0",
-  "description": "A simple Chrome extension to learn the basics of Chrome extension development.",
-  "main": "extension.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "This is a repository to learn the basics of Chrome extension development.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/deniszola/chrome-extension.git"
